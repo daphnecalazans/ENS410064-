@@ -3,4 +3,5 @@ Repositório da disciplina de Python in Environmental Applications
 
 Daphne Becker Calazans
 Engenheira Ambiental
+e-mail: daphne.calazans@gmail.com
 
