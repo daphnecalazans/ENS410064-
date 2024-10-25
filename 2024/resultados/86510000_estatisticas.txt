@@ -1,0 +1,21 @@
+Estatisticas da estacao 86510000
+Vazao media diaria = 363.4679899031588
+Vazao maxima diaria = 15092.317
+Vazao minima diaria = 4.226
+Mediana das vazoes diaria = 186.3951
+
+Media Mensal de Vazao:
+
+ Mes      Vazao
+   1 215.144466
+   2 244.280246
+   3 196.903431
+   4 224.509227
+   5 314.780446
+   6 429.630120
+   7 537.203496
+   8 504.241893
+   9 598.638550
+  10 532.859299
+  11 330.215197
+  12 231.877628
