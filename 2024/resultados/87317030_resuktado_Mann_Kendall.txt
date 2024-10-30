@@ -1,0 +1,9 @@
+Esses são os resultados do teste de Mann Kendall para a estação 87317030
+Não há tendência significativa
+p-value = 0.7578090226193295
+O p-value indica a probabilidade de que a tendência observada na série temporal seja devida ao acaso. Um valor-p menor que um nível de significância predefinido (comum usar 0.05) sugere que a tendência observada é estatisticamente significativa.
+No nosso caso, há 76% de chance de que a tendência seja aleatória
+z-score = -0.30835920179944337
+O valor do z-score indica a direção e a intensidade da tendência
+Se z>0 há tendência de aumento
+Se z<0 há tendência de redução
