@@ -1,0 +1,15 @@
+Valor único | Classe       | Percentual
+----------------------------------------
+3            | Forest Formation | 29.87%
+5            | Mangrove     | 6.58%
+9            |  Forest Plantation | 2.45%
+15           |  Pasture     | 7.16%
+21           |  Mosaic of Uses | 28.34%
+23           |  Beach and  Dune and Sand Spot | 0.06%
+24           |  Urban Area  | 9.21%
+25           |  Other non Vegetated Areas | 0.06%
+29           |  Rocky Outcrop | 0.05%
+32           |  Hypersaline Tidal Flat | 1.25%
+33           |  River and Lake and Ocean | 1.03%
+41           |  Other Temporary Crops | 0.08%
+49           | Wooded Sandbank Vegetation | 13.86%
